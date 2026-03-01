@@ -1,8 +1,8 @@
 {
-  "owners": [
+  "superadmins": [
     {
       "user_id": 7863816915,
-      "username": "owner",
+      "username": "owner_skteam",
       "level": "superadmin"
     }
   ],
