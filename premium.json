@@ -1,0 +1,16 @@
+{
+  "premium_users": [
+    {
+      "user_id": 1234567890,
+      "username": "premium_user1",
+      "expired": "2025-12-31",
+      "status": "active"
+    },
+  ],
+  "premium_features": [
+    "ip_lookup",
+    "doxxing_tool",
+    "sqli_scanner",
+    "admin_finder"
+  ]
+}
